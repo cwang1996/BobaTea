@@ -139,12 +139,14 @@ h1 {
 .menu-header {
     color: #AE212A;
     font-size: 40px;
+    padding-bottom: 20px;
 }
 
 img {
     max-width: 100%;
     max-height: 100%;
     border-radius: 4px;
+    margin-top: -20px;
 }
 
 li {
@@ -166,6 +168,8 @@ li {
 .drinkname {
     color: #AE212A;
     font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 10px;
 }
 
 .info {
@@ -180,7 +184,7 @@ li {
     flex: 1;
     padding: 10px;
     margin-bottom: 50px;
-    max-width: 1200px;
+    max-width: 1000px;
 }
 
 span {
